@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// git start
 public class walk : MonoBehaviour {
 	public float speed=5;
 	public float lowSpeed=5;
